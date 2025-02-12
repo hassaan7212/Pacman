@@ -1,1 +1,1 @@
-This code is about the pacman game and this game is created in c++ 
+This code is about the UI based pacman game and this game is created in c++ 
